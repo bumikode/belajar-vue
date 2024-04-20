@@ -6,11 +6,15 @@ titleTemplate: "%s - Fundamental"
 
 ## Apa itu Vuejs?
 
-- Vuejs adalah library javascript untuk membangun user interface dengan tetap menggunakan html, css, dan js.
-- Perbedaan vuejs dan html biasa:
+<br />
 
-1. Declarative rendering — menampilkan html sesuai dengan state javascript
-2. Reactivity — vue akan memantau state javascript agar ketika perubahan terjadi, maka DOM bisa di update langsung sesuai dengan state yg diubah
+<div v-click>Vuejs adalah library javascript untuk membangun user interface dengan tetap menggunakan html, css, dan js.</div>
+
+<br />
+
+<div v-click>Perbedaan vuejs dan html biasa:</div>
+<div v-click>1. Declarative rendering — menampilkan html sesuai dengan state javascript</div>
+<div v-click>2. Reactivity — vue akan memantau state javascript agar ketika perubahan terjadi, maka DOM bisa di update langsung sesuai dengan state yg diubah</div>
 
 ---
 
@@ -34,8 +38,8 @@ titleTemplate: "%s - Fundamental"
    ></iframe>
 
 ---
-
-## layout: center
+layout: center
+---
 
 # Baris code menjadi lebih kecil
 
@@ -81,8 +85,8 @@ const num = ref(0);
 ````
 
 ---
-
-## layout: two-cols-header
+layout: two-cols-header
+---
 
 # 2 Macam cara menggunakan vuejs
 

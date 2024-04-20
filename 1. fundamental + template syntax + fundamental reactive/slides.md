@@ -21,3 +21,6 @@ src: ./pages/file-vue.md
 ---
 src: ./pages/fundamental-reactive.md
 ---
+---
+src: ./pages/summary.md
+---

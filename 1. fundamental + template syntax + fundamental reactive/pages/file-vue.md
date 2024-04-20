@@ -38,14 +38,14 @@ contoh:
 
 # Fungsi-fungsi basic DOM dalam vue:
 <div v-click>
-1. Text interpolation / render value
+1. Text interpolation / render variable
 ```js
 <div>{{ variable }}</div>
 ```
 </div>
 <br/>
 <div v-click>
-2. HTML interpolation / render html
+2. HTML interpolation / render html & variable
 ```js
 <div v-html="variable"></div>
 ```
